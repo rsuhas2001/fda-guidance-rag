@@ -1,0 +1,453 @@
+[
+  {
+    "id": "Q01",
+    "question": "Under 21 CFR 211.94 and the 1999 FDA Container Closure Guidance, what are the four primary qualification dimensions for a container closure system?",
+    "expected_doc_id": "FDA-CCS-1999",
+    "required_keywords": [
+      "protection",
+      "compatibility",
+      "safety",
+      "performance"
+    ],
+    "should_abstain": false
+  },
+  {
+    "id": "Q02",
+    "question": "Which dosage forms are classified in the highest risk category for packaging-component interaction in the FDA Container Closure Systems guidance?",
+    "expected_doc_id": "FDA-CCS-1999",
+    "required_keywords": [
+      "inhalation",
+      "injectable",
+      "ophthalmic"
+    ],
+    "should_abstain": false
+  },
+  {
+    "id": "Q03",
+    "question": "Why must elastomeric stoppers used for lyophilized injectable products undergo validated drying cycles, and how does silicone oil affect biologic proteins?",
+    "expected_doc_id": "FDA-CCS-1999",
+    "required_keywords": [
+      "moisture",
+      "lyophilized",
+      "silicone",
+      "aggregation"
+    ],
+    "should_abstain": false
+  },
+  {
+    "id": "Q04",
+    "question": "What is the Safety Concern Threshold (SCT) and Qualification Threshold (QT) in micrograms per day for organic leachables in parenteral drug products under FDA CDER / PQRI?",
+    "expected_doc_id": "FDA-EL-PODP",
+    "required_keywords": [
+      "1.5",
+      "5.0",
+      "nitrosamines"
+    ],
+    "should_abstain": false
+  },
+  {
+    "id": "Q05",
+    "question": "How is the Analytical Evaluation Threshold (AET) calculated from the Safety Concern Threshold for a parenteral drug product with a daily dose of 3.0 mL/day and UF of 2.0?",
+    "expected_doc_id": "FDA-EL-PODP",
+    "required_keywords": [
+      "0.25",
+      "1.5",
+      "uncertainty"
+    ],
+    "should_abstain": false
+  },
+  {
+    "id": "Q06",
+    "question": "What four orthogonal analytical techniques are required for comprehensive extractables and leachables profiling across VOCs, SVOCs, NVOCs, and elemental impurities?",
+    "expected_doc_id": "FDA-EL-PODP",
+    "required_keywords": [
+      "gc/ms",
+      "uhplc",
+      "icp-ms",
+      "ich"
+    ],
+    "should_abstain": false
+  },
+  {
+    "id": "Q07",
+    "question": "Why does FDA 2008 CCIT Guidance prefer deterministic container closure integrity test methods over probabilistic methods like dye ingress?",
+    "expected_doc_id": "FDA-CCIT-2008",
+    "required_keywords": [
+      "deterministic",
+      "probabilistic",
+      "non-destructive",
+      "dye"
+    ],
+    "should_abstain": false
+  },
+  {
+    "id": "Q08",
+    "question": "What is the Kirsch Maximum Allowable Leakage Limit (MALL) in mbar*L/s and corresponding orifice diameter in micrometers under FDA 2008 CCIT Guidance?",
+    "expected_doc_id": "FDA-CCIT-2008",
+    "required_keywords": [
+      "10^-6",
+      "0.1",
+      "0.3",
+      "mall"
+    ],
+    "should_abstain": false
+  },
+  {
+    "id": "Q09",
+    "question": "Compare the defect detection sensitivity and best use cases of Helium Mass Spectrometry, High-Voltage Leak Detection (HVLD), and Laser Headspace Analysis (FMS).",
+    "expected_doc_id": "FDA-CCIT-2008",
+    "required_keywords": [
+      "helium",
+      "hvld",
+      "headspace",
+      "10^-9"
+    ],
+    "should_abstain": false
+  },
+  {
+    "id": "Q10",
+    "question": "Which CFR parts and ISO standards govern drug-device combination prefilled syringes and their quality management systems?",
+    "expected_doc_id": "FDA-PFS-2024",
+    "required_keywords": [
+      "211",
+      "820",
+      "13485",
+      "11040"
+    ],
+    "should_abstain": false
+  },
+  {
+    "id": "Q11",
+    "question": "What are the typical specification limits for break-loose force, glide force, and rigid needle shield pull-off force in prefilled syringes?",
+    "expected_doc_id": "FDA-PFS-2024",
+    "required_keywords": [
+      "15",
+      "20",
+      "25",
+      "glide"
+    ],
+    "should_abstain": false
+  },
+  {
+    "id": "Q12",
+    "question": "What causes tungsten-induced protein aggregation in staked-needle prefilled syringes and what mitigation strategies are used for sensitive monoclonal antibodies?",
+    "expected_doc_id": "FDA-PFS-2024",
+    "required_keywords": [
+      "tungsten",
+      "50",
+      "ppb",
+      "fluoropolymer"
+    ],
+    "should_abstain": false
+  },
+  {
+    "id": "Q13",
+    "question": "How does FDA CMC elastomeric closure distinguish between Type I and Type II elastomeric closures for injectable products?",
+    "expected_doc_id": "FDA-ELASTOMERS-CMC",
+    "required_keywords": [
+      "type i",
+      "type ii",
+      "uncoated",
+      "fluoropolymer"
+    ],
+    "should_abstain": false
+  },
+  {
+    "id": "Q14",
+    "question": "What biological reactivity chapters and acceptance grades apply to elastomeric closures under FDA CMC elastomeric closure?",
+    "expected_doc_id": "FDA-ELASTOMERS-CMC",
+    "required_keywords": [
+      "l-929",
+      "grade 0",
+      "elution",
+      "l-929"
+    ],
+    "should_abstain": false
+  },
+  {
+    "id": "Q15",
+    "question": "What are the FDA CMC elastomeric closure physicochemical limits for turbidity, UV absorbance, reducing substances, and extractable zinc in aqueous autoclave extracts?",
+    "expected_doc_id": "FDA-ELASTOMERS-CMC",
+    "required_keywords": [
+      "ntu",
+      "0.2",
+      "3.0",
+      "zinc"
+    ],
+    "should_abstain": false
+  },
+  {
+    "id": "Q16",
+    "question": "What are the exact needle gauge, puncture force limit, fragmentation particle limit, and methylene blue self-sealing requirements in FDA CMC elastomeric closure functionality testing?",
+    "expected_doc_id": "FDA-ELASTOMERS-CMC",
+    "required_keywords": [
+      "21-gauge",
+      "10 n",
+      "48",
+      "methylene"
+    ],
+    "should_abstain": false
+  },
+  {
+    "id": "Q17",
+    "question": "Under EU GMP Annex 1 (2023), what log reduction in bacterial endotoxins and what Sterility Assurance Level (SAL) are required for glass vials and elastomeric stoppers?",
+    "expected_doc_id": "FDA-Q9-ANNEX1-2023",
+    "required_keywords": [
+      "3-log",
+      "10^-6",
+      "121.1",
+      "grade a"
+    ],
+    "should_abstain": false
+  },
+  {
+    "id": "Q18",
+    "question": "What are the USP <788> sub-visible particulate matter limits for Small-Volume Parenterals (<= 100 mL) versus Large-Volume Parenterals (> 100 mL)?",
+    "expected_doc_id": "FDA-Q9-ANNEX1-2023",
+    "required_keywords": [
+      "6,000",
+      "600",
+      "25",
+      "10"
+    ],
+    "should_abstain": false
+  },
+  {
+    "id": "Q19",
+    "question": "How do USP <789> ophthalmic intraocular sub-visible particulate limits and USP <790> visible particulate AQL limits compare?",
+    "expected_doc_id": "FDA-Q9-ANNEX1-2023",
+    "required_keywords": [
+      "<789>",
+      "<790>",
+      "0.65%",
+      "50"
+    ],
+    "should_abstain": false
+  },
+  {
+    "id": "Q20",
+    "question": "What minimum axial force must syringe finger flanges withstand without fracture under ISO 11040-4 and ISO 11040-6?",
+    "expected_doc_id": "FDA-PFS-2024",
+    "required_keywords": [
+      "40",
+      "50",
+      "flange",
+      "11040"
+    ],
+    "should_abstain": false
+  },
+  {
+    "id": "Q21",
+    "question": "Which chemical compounds belong to the Cohort of Concern in FDA CDER / PQRI that require qualification even below the 1.5 ug/day Safety Concern Threshold?",
+    "expected_doc_id": "FDA-EL-PODP",
+    "required_keywords": [
+      "nitrosamines",
+      "pahs",
+      "2-mercaptobenzothiazole"
+    ],
+    "should_abstain": false
+  },
+  {
+    "id": "Q22",
+    "question": "Under 21 CFR Part 201, what are the type size requirements for the established generic name relative to the proprietary name, and what does the 21 CFR 201.25 bar code rule require?",
+    "expected_doc_id": "CFR-201-LABELING",
+    "required_keywords": [
+      "half",
+      "201.10",
+      "ndc",
+      "201.25"
+    ],
+    "should_abstain": false
+  },
+  {
+    "id": "Q23",
+    "question": "Under the Physician Labeling Rule (21 CFR 201.56 and 201.57), what is the page limit for Highlights of Prescribing Information and what container details belong in Section 16?",
+    "expected_doc_id": "CFR-201-LABELING",
+    "required_keywords": [
+      "one-half",
+      "section 16",
+      "ndc",
+      "storage"
+    ],
+    "should_abstain": false
+  },
+  {
+    "id": "Q24",
+    "question": "Under 21 CFR 211.84 and 211.170, what incoming test is mandatory even with a supplier Certificate of Analysis, and how long must reserve samples be retained?",
+    "expected_doc_id": "CFR-211-CGMP",
+    "required_keywords": [
+      "identity",
+      "twice",
+      "1 year",
+      "expiration"
+    ],
+    "should_abstain": false
+  },
+  {
+    "id": "Q25",
+    "question": "What does 21 CFR 211.22 require of the Quality Control Unit (QCU), and what does 21 CFR 211.192 mandate when an unexplained batch discrepancy occurs?",
+    "expected_doc_id": "CFR-211-CGMP",
+    "required_keywords": [
+      "211.22",
+      "211.192",
+      "capa",
+      "other batches"
+    ],
+    "should_abstain": false
+  },
+  {
+    "id": "Q26",
+    "question": "What does ALCOA+ stand for under 21 CFR Part 11 data integrity, and what are the three mandatory items displayed on a signed electronic record under 21 CFR 11.50?",
+    "expected_doc_id": "CFR-11-ERECORDS",
+    "required_keywords": [
+      "attributable",
+      "printed name",
+      "date and time",
+      "meaning"
+    ],
+    "should_abstain": false
+  },
+  {
+    "id": "Q27",
+    "question": "Under 21 CFR 11.10(e), what are the requirements for computer-generated time-stamped audit trails in closed GxP systems?",
+    "expected_doc_id": "CFR-11-ERECORDS",
+    "required_keywords": [
+      "audit",
+      "obscure",
+      "11.10"
+    ],
+    "should_abstain": false
+  },
+  {
+    "id": "Q28",
+    "question": "Under ICH Q1A(R2), what are the long-term and accelerated stability temperature, humidity, and minimum duration requirements for room-temperature vs. refrigerated drug products?",
+    "expected_doc_id": "ICH-Q1A-STABILITY",
+    "required_keywords": [
+      "25\u00b0c",
+      "40\u00b0c",
+      "12 months",
+      "6 months"
+    ],
+    "should_abstain": false
+  },
+  {
+    "id": "Q29",
+    "question": "How does ICH Q1A(R2) define a 'significant change' in stability testing, including water loss limits for semi-permeable LDPE containers?",
+    "expected_doc_id": "ICH-Q1A-STABILITY",
+    "required_keywords": [
+      "5%",
+      "assay",
+      "semi-permeable",
+      "25% rh"
+    ],
+    "should_abstain": false
+  },
+  {
+    "id": "Q30",
+    "question": "In the 2004 FDA Aseptic Processing guidance, what are the airborne particle limits, active air CFU limits, and media fill contamination rules for ISO Class 5 cleanrooms?",
+    "expected_doc_id": "FDA-ASEPTIC-2004",
+    "required_keywords": [
+      "3,520",
+      "5,000",
+      "10,000",
+      "brevundimonas"
+    ],
+    "should_abstain": false
+  },
+  {
+    "id": "Q31",
+    "question": "Under the 2006 FDA OOS Guidance and Barr Laboratories ruling, how do Phase I and Phase II investigations differ, and why are testing into compliance and chemical outlier tests prohibited?",
+    "expected_doc_id": "FDA-OOS-2006",
+    "required_keywords": [
+      "phase i",
+      "phase ii",
+      "barr",
+      "outlier"
+    ],
+    "should_abstain": false
+  },
+  {
+    "id": "Q32",
+    "question": "How does the FDA classify Class I, II, and III drug recalls under 21 CFR Part 7, and what is the reporting deadline for an NDA Field Alert Report (FAR) under 21 CFR 314.81 versus a BLA BPDR?",
+    "expected_doc_id": "CFR-7-RECALLS-FAR",
+    "required_keywords": [
+      "class i",
+      "3 working days",
+      "314.81",
+      "45 calendar days"
+    ],
+    "should_abstain": false
+  },
+  {
+    "id": "Q33",
+    "question": "What is the best strategy for trading cryptocurrency futures with 50x leverage on Binance?",
+    "expected_doc_id": "NONE",
+    "required_keywords": [
+      "abstain"
+    ],
+    "should_abstain": true
+  },
+  {
+    "id": "Q34",
+    "question": "How many points did LeBron James score in the 2016 NBA Finals Game 7?",
+    "expected_doc_id": "NONE",
+    "required_keywords": [
+      "abstain"
+    ],
+    "should_abstain": true
+  },
+  {
+    "id": "Q35",
+    "question": "What temperature should I bake a sourdough loaf in a Dutch oven?",
+    "expected_doc_id": "NONE",
+    "required_keywords": [
+      "abstain"
+    ],
+    "should_abstain": true
+  },
+  {
+    "id": "Q36",
+    "question": "How do I configure BGP route reflectors on a Cisco Nexus 9000 switch?",
+    "expected_doc_id": "NONE",
+    "required_keywords": [
+      "abstain"
+    ],
+    "should_abstain": true
+  },
+  {
+    "id": "Q37",
+    "question": "What are the IRS 2026 marginal federal income tax brackets for married filing jointly?",
+    "expected_doc_id": "NONE",
+    "required_keywords": [
+      "abstain"
+    ],
+    "should_abstain": true
+  },
+  {
+    "id": "Q38",
+    "question": "Which spark plugs are recommended for a 2022 Honda Civic Type R turbocharged engine?",
+    "expected_doc_id": "NONE",
+    "required_keywords": [
+      "abstain"
+    ],
+    "should_abstain": true
+  },
+  {
+    "id": "Q39",
+    "question": "Who directed the movie Oppenheimer and how many Academy Awards did it win?",
+    "expected_doc_id": "NONE",
+    "required_keywords": [
+      "abstain"
+    ],
+    "should_abstain": true
+  },
+  {
+    "id": "Q40",
+    "question": "How do you train a LoRA adapter for Stable Diffusion XL on anime character illustrations?",
+    "expected_doc_id": "NONE",
+    "required_keywords": [
+      "abstain"
+    ],
+    "should_abstain": true
+  }
+]

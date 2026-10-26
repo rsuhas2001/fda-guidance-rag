@@ -24,7 +24,7 @@ For sterile injectable products and parenterals, both physicochemical testing an
 
 ## Section 4: Injectable Vial and Prefilled Syringe Specific Requirements
 Injectable drug products require hermetic or sterile barrier integrity throughout shelf life. Elastomeric closures (such as bromobutyl or chlorobutyl rubber stoppers, with or without fluoropolymer film lamination) must be evaluated for:
-- **Coring and Fragmentation**: Resistance to shedding elastomer particles when punctured with a hypodermic needle or transfer spike (per USP <381>).
+- **Coring and Fragmentation**: Resistance to shedding elastomer particles when punctured with a hypodermic needle or transfer spike (per FDA CMC elastomeric functionality standards).
 - **Self-Sealing Capacity**: Multi-dose parenteral vials must maintain container closure integrity and prevent microbial ingress after multiple needle punctures.
 - **Moisture Vapor Permeation**: Lyophilized (freeze-dried) injectable products are highly sensitive to moisture transfer directly from the elastomeric stopper itself during long-term stability storage; stoppers must undergo validated drying cycles to control residual moisture content.
 - **Silicone Oil Interaction**: Glass vials and prefilled syringe barrels often use polydimethylsiloxane (PDMS) silicone oil lubrication. For biologic proteins and monoclonal antibodies, free silicone oil micro-droplets can induce protein aggregation or sub-visible particulate formation, often necessitating baked-on siliconization or fluoropolymer-coated plunger stoppers.
